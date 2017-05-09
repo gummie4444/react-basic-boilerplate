@@ -46,14 +46,18 @@
     "axios": "^0.16.1",
     "classnames": "^2.2.5",
     "es6-promise": "^4.1.0",
+    "query-string": "^4.3.4",
     "react": "^15.5.4",
     "react-bootstrap": "^0.31.0",
     "react-dom": "^15.5.4",
     "react-redux": "^5.0.4",
     "react-router": "^4.1.1",
     "react-router-bootstrap": "^0.23.3",
+    "react-router-dom": "^4.1.1",
+    "react-router-redux": "next",
     "redux": "^3.6.0",
     "redux-actions": "^2.0.2",
+    "redux-auth-wrapper": "^1.1.0",
     "redux-thunk": "^2.2.0",
     "request": "^2.81.0"
   }

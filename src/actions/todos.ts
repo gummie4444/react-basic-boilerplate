@@ -1,6 +1,5 @@
 
 import { polyfill } from 'es6-promise';
-import request from 'axios';
 import requestService from '../services/httpService'
 import * as Actions from '../constants/actions';
 
